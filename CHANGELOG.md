@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.41.0](https://www.github.com/googleapis/java-kms/compare/v1.40.8...v1.41.0) (2021-03-02)
+
+
+### Features
+
+* **generator:** update protoc to v3.15.3 ([#420](https://www.github.com/googleapis/java-kms/issues/420)) ([3904700](https://www.github.com/googleapis/java-kms/commit/390470026aff97e48311f50a5f06ce14e010a336))
+
 ### [1.40.8](https://www.github.com/googleapis/java-kms/compare/v1.40.7...v1.40.8) (2021-02-25)
 
 
